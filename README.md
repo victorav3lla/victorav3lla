@@ -47,9 +47,9 @@ Full stack developer with a background in billing, operations, and remote work w
 
 ## GitHub Stats
 
-   ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorav3lla&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorav3lla&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+   ![Victor's GitHub stats](https://github-readme-stats-nine-alpha-76.vercel.app/api?username=victorav3lla&show_icons=true&theme=dark&hide_border=true)
+   
+   ![Top Langs](https://github-readme-stats-nine-alpha-76.vercel.app/api/top-langs/?username=victorav3lla&layout=compact&theme=dark&hide_border=true)
 
 ---
 
