@@ -39,10 +39,11 @@ Full stack developer with a background in billing, operations, and remote work w
 | Project | Description | Stack |
 |---|---|---|
 | [Talez](https://www.talez.me) | AI-powered illustrated storybook generator for kids | Rails, OpenAI, Gemini, Cloudinary |
+| [La Figurita](https://lafigurita.com) | Custom Panini-style sticker album landing page | Vite, JavaScript, Tailwind, Vercel |
 | [Muzik](https://github.com/victorav3lla) | AI playlist creator based on your mood | Rails, LLMs, Spotify API |
-| [Moviety](https://github.com/victorav3lla) | Movie discovery platform with user lists | Rails, PostgreSQL, External API |
 | [Duke's Hotel](https://dukes-albania.vercel.app/) | Website for a luxury hotel in Albania | Vite, Vanilla JS, Stimulus, Tailwind CSS |
 | [RigoBet](https://github.com/victorav3lla) | Telegram bot integrating BetBurger API for real-time arbitrage alerts with admin commands and dual-channel support. | Python, Telegram API, Betting API |
+| [La Figurita](https://lafigurita.com) | Custom Panini-style sticker album landing page | Vite, JavaScript, Tailwind, Vercel |
 ---
 
 ## GitHub Stats
